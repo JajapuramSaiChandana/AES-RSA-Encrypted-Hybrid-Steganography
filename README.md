@@ -21,7 +21,7 @@ Return (encryptedSymmetricKey, encryptedData)
 
 End Function
 
-**Algorithm for Hybrid AES-RSA Decryption**
+**Algorithm for Hybrid AES-RSA Decryption:**
 
 Input: Encrypted AES Symmetric Key, RSA Private Key, Cipher text
 
